@@ -13,6 +13,7 @@ The Virtual Hexameric ATPase is a modular program execution engine with six inte
 - **Six syntactic modules** – each module interprets instructions in a unique way; combinable for complex operations.
 - **Modularity and integration** – easy addition of new modules without interfering with the core ATPase.
 - **Parallel and sequential processing** – adaptive synchronization for consistent results.
+- **Digital Mechanical Work** - The engine uses a principle called Digital Mechanical Work to distribute program lines across six syntactic modules simultaneously, optimizing execution and synchronization.
 
 ---
 
@@ -46,6 +47,7 @@ Virtuální Hexamerická ATPáza je modulární engine pro spouštění program�
 - **Šest syntaktických modulů** – každý modul interpretuje instrukce unikátním způsobem; kombinovatelné pro komplexní operace.  
 - **Modularita a integrace** – snadné přidání nových modulů bez zásahu do jádra ATPázy.  
 - **Paralelní a sekvenční zpracování** – adaptivní synchronizace pro konzistentní výsledky.  
+- **Digitální mechanická práce** - Engine využívá princip zvaný digitální mechanická práce k současné distribuci programových řádků mezi šest syntaktických modulů, čímž optimalizuje provádění a synchronizaci.
 
 ---
 
