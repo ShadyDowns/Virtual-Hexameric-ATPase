@@ -18,9 +18,18 @@ The Virtual Hexameric ATPase is a modular program execution engine with six inte
 
 ## Repository structure
 
+/V-ATPase
+│
+├─ README.md ← This documentation
+├─ /core ← The core of ATPase
+├─ /syntax ← Six syntax modules
+│ ├─ syntax1
+│ ├─ syntax2
+│ └─ ...
+├─ /examples ← Sample programs run via ATPase
+└─ /docs ← Detailed tutorials and reference materials
 
-
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Česky:
 
@@ -42,3 +51,13 @@ Virtuální Hexamerická ATPáza je modulární engine pro spouštění program�
 
 ## Struktura repozitáře
 
+/V-ATPaza
+│
+├─ README.md ← Tato dokumentace
+├─ /core ← Jádro ATPázy
+├─ /syntax ← Šest syntaktických modulů
+│ ├─ syntax1
+│ ├─ syntax2
+│ └─ ...
+├─ /examples ← Ukázky programů spuštěných přes ATPázu
+└─ /docs ← Podrobné návody a referenční materiály
